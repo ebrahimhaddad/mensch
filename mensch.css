@@ -1,0 +1,17 @@
+.board {
+    width: 530px;
+    background-image: url("mensch.jpg");
+    background-size: 550px;
+    padding: 21px;
+    padding-right: 1px;
+}
+
+.grd {
+    text-align: center;
+    width: 42px;
+    height: 42px;
+}
+
+.piece {
+    width: 82%;
+}
